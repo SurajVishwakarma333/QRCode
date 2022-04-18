@@ -25,6 +25,7 @@
         android:layout_marginTop="156dp"
         android:layout_marginRight="30dp"
         android:gravity="center"
+        android:hint="Scanner Code generate here"
         android:textColor="#000"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
